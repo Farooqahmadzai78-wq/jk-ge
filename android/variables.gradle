@@ -1,0 +1,26 @@
+ext {
+    minSdkVersion = 24
+    compileSdkVersion = 36
+    targetSdkVersion = 36
+    androidxActivityVersion = '1.11.0'
+    androidxAppCompatVersion = '1.7.1'
+    androidxCoordinatorLayoutVersion = '1.3.0'
+    androidxCoreVersion = '1.17.0'
+    androidxFragmentVersion = '1.8.9'
+    coreSplashScreenVersion = '1.2.0'
+    androidxWebkitVersion = '1.14.0'
+    junitVersion = '4.13.2'
+    androidxJunitVersion = '1.3.0'
+    androidxEspressoCoreVersion = '3.7.0'
+    cordovaAndroidVersion = '14.0.1'
+    // Kotlin 2.3.0 : version minimale compatible avec les metadonnees Kotlin 2.3.0
+    // des bibliotheques Google Play Ads (play-services-ads 25.4.0). Le compilateur
+    // 2.0.21 ne pouvait pas lire ces metadonnees ("incompatible version of Kotlin").
+    // Doit rester aligne avec la classpath du buildscript racine (android/build.gradle).
+    kotlin_version = '2.3.0'
+    // Version stable et explicite de Play Services Ads, lue par le plugin
+    // @capacitor-community/admob via `rootProject.ext.playServicesAdsVersion`.
+    // Remplace la plage dynamique '25.4.+', qui pouvait resoudre a une version
+    // compilee avec un Kotlin plus recent que celui du projet.
+    playServicesAdsVersion = '25.4.0'
+}

@@ -1,0 +1,2187 @@
+[
+  {
+    "key": "invocationsLabel",
+    "en": "invocations",
+    "fr": "invocations"
+  },
+  {
+    "key": "timezoneLabel",
+    "en": "Timezone",
+    "fr": "Fuseau horaire"
+  },
+  {
+    "key": "cropPhotoTitle",
+    "en": "Adjust your photo",
+    "fr": "Ajustez votre photo"
+  },
+  {
+    "key": "cropHint",
+    "en": "Drag to move, use the slider to zoom.",
+    "fr": "Faites glisser pour déplacer, utilisez le curseur pour zoomer."
+  },
+  {
+    "key": "emailChangeConfirmed",
+    "en": "Your new email address is confirmed.",
+    "fr": "Votre nouvelle adresse e-mail est confirmée."
+  },
+  {
+    "key": "emailChangePending",
+    "en": "Change pending — confirm the link sent to",
+    "fr": "Changement en attente — confirmez le lien envoyé à"
+  },
+  {
+    "key": "chooseMosqueHint",
+    "en": "Tap the map, then pick a mosque to sync prayer times.",
+    "fr": "Touchez la carte, puis choisissez une mosquée pour synchroniser les horaires."
+  },
+  {
+    "key": "noMosque",
+    "en": "No mosque found nearby",
+    "fr": "Aucune mosquée trouvée à proximité"
+  },
+  {
+    "key": "openMosqueList",
+    "en": "Open the mosque list",
+    "fr": "Ouvrir la liste des mosquées"
+  },
+  {
+    "key": "permissionNeeded",
+    "en": "Permission required",
+    "fr": "Autorisation requise"
+  },
+  {
+    "key": "allow",
+    "en": "Allow",
+    "fr": "Autoriser"
+  },
+  {
+    "key": "locationDenied",
+    "en": "Location access denied. Enable it in your phone settings.",
+    "fr": "Accès à la position refusé. Activez-le dans les réglages du téléphone."
+  },
+  {
+    "key": "notificationsDenied",
+    "en": "Notifications blocked. Enable them in your phone settings.",
+    "fr": "Notifications bloquées. Activez-les dans les réglages du téléphone."
+  },
+  {
+    "key": "enableCompass",
+    "en": "Enable the compass",
+    "fr": "Activer la boussole"
+  },
+  {
+    "key": "disableCompass",
+    "en": "Disable the compass",
+    "fr": "Désactiver la boussole"
+  },
+  {
+    "key": "applyStyle",
+    "en": "Apply this style",
+    "fr": "Appliquer ce style"
+  },
+  {
+    "key": "searching",
+    "en": "Searching...",
+    "fr": "Recherche en cours..."
+  },
+  {
+    "key": "regToStart",
+    "en": "To start",
+    "fr": "À débuter"
+  },
+  {
+    "key": "regExcellent",
+    "en": "Excellent",
+    "fr": "Excellente"
+  },
+  {
+    "key": "regGood",
+    "en": "Good",
+    "fr": "Bonne"
+  },
+  {
+    "key": "regInProg",
+    "en": "In progress",
+    "fr": "En progression"
+  },
+  {
+    "key": "compassStyleLabel",
+    "en": "Style",
+    "fr": "Style"
+  },
+  {
+    "key": "off",
+    "en": "Off",
+    "fr": "Désactivée"
+  },
+  {
+    "key": "invocationSingular",
+    "en": "invocation",
+    "fr": "invocation"
+  },
+  {
+    "key": "invocationPlural",
+    "en": "invocations",
+    "fr": "invocations"
+  },
+  {
+    "key": "openGuideTitle",
+    "en": "Interactive App Guide",
+    "fr": "Guide interactif de l'application"
+  },
+  {
+    "key": "openGuideSub",
+    "en": "Explore all features with real live examples",
+    "fr": "Découvrir toutes les fonctionnalités avec des exemples réels"
+  },
+  {
+    "key": "relaunchGuide",
+    "en": "Review Interactive Guide",
+    "fr": "Revoir le guide interactif"
+  },
+  {
+    "key": "guideInteractiveDemo",
+    "en": "Live Interactive Demo",
+    "fr": "Exemple interactif en direct"
+  },
+  {
+    "key": "guideTryIt",
+    "en": "Try it directly:",
+    "fr": "Testez directement :"
+  },
+  {
+    "key": "guidePrayerExampleTitle",
+    "en": "Prayer Times & Adhan Example",
+    "fr": "Exemple d'horaires et d'Azan"
+  },
+  {
+    "key": "guidePrayerNextLabel",
+    "en": "Calculated Next Prayer",
+    "fr": "Prochaine prière calculée"
+  },
+  {
+    "key": "guidePrayerAdhanDemo",
+    "en": "Test Audio Adhan",
+    "fr": "Tester l'Adhan audio"
+  },
+  {
+    "key": "guideAdhanPlaying",
+    "en": "Adhan playing...",
+    "fr": "Azan en lecture..."
+  },
+  {
+    "key": "guideQuranExampleTitle",
+    "en": "Reading with Tajweed Rules",
+    "fr": "Exemple de lecture avec Tajwid"
+  },
+  {
+    "key": "guideQuranVerseDemo",
+    "en": "Throne Verse (Ayat Al-Kursi, 2:255)",
+    "fr": "Verset du Trône (Ayat Al-Kursi, 2:255)"
+  },
+  {
+    "key": "guideTajwidGhunnah",
+    "en": "Ghunnah (Nasalization)",
+    "fr": "Ghunnah (Nasalisation)"
+  },
+  {
+    "key": "guideTajwidQalqalah",
+    "en": "Qalqalah (Echo)",
+    "fr": "Qalqalah (Rebond)"
+  },
+  {
+    "key": "guideTajwidMadd",
+    "en": "Madd (Prolongation)",
+    "fr": "Madd (Prolongation)"
+  },
+  {
+    "key": "guideHalalScanExample",
+    "en": "Real Product Analysis Samples:",
+    "fr": "Exemple d'analyse de 3 produits réels :"
+  },
+  {
+    "key": "guideHalalSample1",
+    "en": "Organic Oat Cookies",
+    "fr": "Biscuits Bio Avoine"
+  },
+  {
+    "key": "guideHalalSample1Status",
+    "en": "Certified Halal 🟢",
+    "fr": "Certifié Halal 🟢"
+  },
+  {
+    "key": "guideHalalSample1Desc",
+    "en": "Whole wheat, cane sugar, 100% plant-based E322 lecithin.",
+    "fr": "Farine complète, sucre de canne, E322 végétal (aucun dérivé animal)."
+  },
+  {
+    "key": "guideHalalSample2",
+    "en": "Vitamin D3 Capsules",
+    "fr": "Gélules Vitamine D3"
+  },
+  {
+    "key": "guideHalalSample2Status",
+    "en": "Doubtful / Mashbouh 🟡",
+    "fr": "Douteux / Mashbouh 🟡"
+  },
+  {
+    "key": "guideHalalSample2Desc",
+    "en": "Contains E441 (Bovine gelatin) without certified ritual slaughter verification.",
+    "fr": "Contient E441 (Gélatine bovine) sans traçabilité certifiée."
+  },
+  {
+    "key": "guideHalalSample3",
+    "en": "Gummy Candies",
+    "fr": "Bonbons Gélifiés"
+  },
+  {
+    "key": "guideHalalSample3Status",
+    "en": "Haram (Forbidden) 🔴",
+    "fr": "Haram (Non permis) 🔴"
+  },
+  {
+    "key": "guideHalalSample3Desc",
+    "en": "Contains E120 (Carmine dye) and porcine E441 gelatin.",
+    "fr": "Contient E120 (Carmin/Cochenille) et E441 d'origine porcine."
+  },
+  {
+    "key": "guideTasbihInteractive",
+    "en": "Try the Virtual Beads Counter:",
+    "fr": "Testez le chapelet virtuel :"
+  },
+  {
+    "key": "guideTasbihTapHint",
+    "en": "Tap to make Dhikr with haptic vibration",
+    "fr": "Touchez pour faire le Dhikr avec vibration"
+  },
+  {
+    "key": "guideTasbihReset",
+    "en": "Reset",
+    "fr": "Réinitialiser"
+  },
+  {
+    "key": "guideQiblaExampleTitle",
+    "en": "Live Qibla Compass & Kaaba",
+    "fr": "Boussole Qibla & Kaaba en direct"
+  },
+  {
+    "key": "guideQiblaAlignedLabel",
+    "en": "✨ Aligned towards Kaaba (Mecca, 119° SE)",
+    "fr": "✨ Aligné vers la Kaaba (La Mecque, 119° SE)"
+  },
+  {
+    "key": "guideThemeChooseTitle",
+    "en": "Choose your starting theme:",
+    "fr": "Choisissez votre thème de départ :"
+  },
+  {
+    "key": "onboardingValidateAndNext",
+    "en": "Confirm & Next",
+    "fr": "Valider & Suivant"
+  },
+  {
+    "key": "onboardingValidateAndStart",
+    "en": "Confirm & Launch Islam-Noor",
+    "fr": "Valider & Lancer Islam-Noor"
+  },
+  {
+    "key": "onboardingValidateOption",
+    "en": "Confirm choice & Continue",
+    "fr": "Valider ce choix et continuer"
+  },
+  {
+    "key": "halalHintTitle",
+    "en": "Ingredient Photo (Halal / Haram)",
+    "fr": "Photo des ingrédients (Halal / Haram)"
+  },
+  {
+    "key": "halalHintText",
+    "en": "If the barcode doesn't work, if the product is not found, or if you have any doubt, you can take a photo of the ingredients list to instantly check whether it is Halal or Haram.",
+    "fr": "Si le code-barres ne marche pas, si le produit n'est pas détecté ou s'il comporte un doute, vous pouvez ajouter une photo des ingrédients pour détecter directement s'il est Halal ou Haram."
+  },
+  {
+    "key": "understood",
+    "en": "Got it",
+    "fr": "Compris"
+  },
+  {
+    "key": "settingsHintTitle",
+    "en": "Full Customization",
+    "fr": "Personnalisation Complète"
+  },
+  {
+    "key": "settingsHintText",
+    "en": "You can change widget colors, background themes, enable glowing LED borders, and customize all visual parameters.",
+    "fr": "Vous pouvez changer la couleur des widgets, de l'arrière-plan, ou encore activer les bordures allumées (LED) et d'autres paramètres personnalisés."
+  },
+  {
+    "key": "customizeNow",
+    "en": "Customize",
+    "fr": "Personnaliser"
+  },
+  {
+    "key": "qiblaHintTitle",
+    "en": "Compass & Augmented Reality",
+    "fr": "Boussole & Réalité Augmentée"
+  },
+  {
+    "key": "qiblaHintText",
+    "en": "You can change the compass style and switch to Augmented Reality (AR) camera mode to pinpoint the direction of Mecca in real time.",
+    "fr": "Vous pouvez changer le style de la boussole et passer en mode Réalité Augmentée (AR) avec votre caméra pour repérer la direction de la Mecque."
+  },
+  {
+    "key": "openQiblaCompass",
+    "en": "Compass & AR",
+    "fr": "Boussole & AR"
+  },
+  {
+    "key": "onboardingSlideLang",
+    "en": "Language & Region",
+    "fr": "Langue & Région"
+  },
+  {
+    "key": "onboardingSlidePrayers",
+    "en": "Prayer Times & Adhan",
+    "fr": "Horaires & Azan"
+  },
+  {
+    "key": "onboardingSlideQuran",
+    "en": "Quran & Tajweed",
+    "fr": "Coran & Tajwid"
+  },
+  {
+    "key": "onboardingSlideHalal",
+    "en": "Halal Scanner",
+    "fr": "Scanner Halal"
+  },
+  {
+    "key": "onboardingSlideDhikr",
+    "en": "Tasbih & Dhikr",
+    "fr": "Tasbih & Dhikr"
+  },
+  {
+    "key": "onboardingSlideQibla",
+    "en": "Qibla & Mosques",
+    "fr": "Qibla & Mosquées"
+  },
+  {
+    "key": "onboardingSlideThemes",
+    "en": "Themes & Widgets",
+    "fr": "Thèmes & Widgets"
+  },
+  {
+    "key": "search50Languages",
+    "en": "Search among 50 languages (Français, العربية, English, Urdu...)...",
+    "fr": "Rechercher parmi 50 langues (Français, العربية, English, Urdu...)..."
+  },
+  {
+    "key": "activeLanguageColon",
+    "en": "Active language:",
+    "fr": "Langue active :"
+  },
+  {
+    "key": "activePill",
+    "en": "Active",
+    "fr": "Actif"
+  },
+  {
+    "key": "onboardingStep1Desc",
+    "en": "Exact astronomical calculations for your city with audio Adhan.",
+    "fr": "Calculs astronomiques exacts pour votre ville avec Azan audio."
+  },
+  {
+    "key": "reminderBeforeAzan",
+    "en": "Reminder before Adhan:",
+    "fr": "Rappel avant Azan :"
+  },
+  {
+    "key": "onboardingStep2Desc",
+    "en": "Authentic Quranic text, color-coded Tajweed rules, and recitations.",
+    "fr": "Texte coranique authentique, règle du Tajwid en couleur et récitations."
+  },
+  {
+    "key": "arabicTab",
+    "en": "Arabic",
+    "fr": "Arabe"
+  },
+  {
+    "key": "translitTab",
+    "en": "Phonetics",
+    "fr": "Phonétique"
+  },
+  {
+    "key": "translationTab",
+    "en": "Translation",
+    "fr": "Traduction"
+  },
+  {
+    "key": "tajwidMaddRule",
+    "en": "● Madd (Prolongation)",
+    "fr": "● Madd (Allongement)"
+  },
+  {
+    "key": "tajwidGhunnahRule",
+    "en": "● Ghunnah (Nasalization)",
+    "fr": "● Ghunnah (Nasalisation)"
+  },
+  {
+    "key": "tajwidQalqalahRule",
+    "en": "● Qalqalah",
+    "fr": "● Qalqalah"
+  },
+  {
+    "key": "reciterColon",
+    "en": "Reciter:",
+    "fr": "Récitateur :"
+  },
+  {
+    "key": "onboardingStep3Desc",
+    "en": "Instant analysis of barcodes and ingredients (Additives, Gelatin).",
+    "fr": "Analyse immédiate du code-barres et des ingrédients (Additifs, Gélatine)."
+  },
+  {
+    "key": "sampleHalalLabel",
+    "en": "🟢 Halal",
+    "fr": "🟢 Halal"
+  },
+  {
+    "key": "sampleHalalTitle",
+    "en": "Oat Flakes",
+    "fr": "Flocons d'avoine"
+  },
+  {
+    "key": "sampleHalalVerdict",
+    "en": "Certified Halal & Wholesome Product",
+    "fr": "Produit Certifié Halal & Sain"
+  },
+  {
+    "key": "sampleHalalDetails",
+    "en": "Ingredients: Whole wheat, olive oil, natural yeast. No doubtful additives.",
+    "fr": "Ingrédients : Farine complète, huile d'olive, levure naturelle. Aucun additif d'origine douteuse."
+  },
+  {
+    "key": "sampleDoubtfulLabel",
+    "en": "🟡 Doubtful",
+    "fr": "🟡 Douteux"
+  },
+  {
+    "key": "sampleDoubtfulTitle",
+    "en": "E471 Capsules",
+    "fr": "Gélules E471"
+  },
+  {
+    "key": "sampleDoubtfulVerdict",
+    "en": "Presence of Doubtful Emulsifier (E471)",
+    "fr": "Présence d'Émulsifiant Douteux (E471)"
+  },
+  {
+    "key": "sampleDoubtfulDetails",
+    "en": "Mono- and diglycerides of fatty acids. Plant or animal origin not specified on packaging.",
+    "fr": "Mono- et diglycérides d'acides gras. Origine végétale ou animale non spécifiée sur l'emballage."
+  },
+  {
+    "key": "sampleHaramLabel",
+    "en": "🔴 Haram",
+    "fr": "🔴 Haram"
+  },
+  {
+    "key": "sampleHaramTitle",
+    "en": "Porcine Gelatin",
+    "fr": "Gélatine Porcine"
+  },
+  {
+    "key": "sampleHaramVerdict",
+    "en": "Non-Compliant (Porcine gelatin E441)",
+    "fr": "Non Conforme (Gélatine porcine E441)"
+  },
+  {
+    "key": "sampleHaramDetails",
+    "en": "Contains animal gelatin not compliant with Islamic ritual slaughter standards.",
+    "fr": "Contient de la gélatine animale non conforme aux normes rituelles d'abattage islamiques."
+  },
+  {
+    "key": "onboardingStep4DhikrDesc",
+    "en": "Interactive haptic counter and verified daily invocations.",
+    "fr": "Compteur haptique interactif et invocations quotidiennes vérifiées."
+  },
+  {
+    "key": "onboardingStep4DhikrTitle",
+    "en": "Tasbih & Invocations (Dhikr)",
+    "fr": "Tasbih & Invocations (Dhikr)"
+  },
+  {
+    "key": "subhanAllahMeaning",
+    "en": "Glory and Purity to Allah",
+    "fr": "Gloire et Pureté à Allah"
+  },
+  {
+    "key": "alhamdulillahMeaning",
+    "en": "All praise is for Allah",
+    "fr": "Toutes les louanges sont à Allah"
+  },
+  {
+    "key": "allahuAkbarMeaning",
+    "en": "Allah is the Greatest",
+    "fr": "Allah est le Plus Grand"
+  },
+  {
+    "key": "onboardingStep5Desc",
+    "en": "Accurate localization of Kaaba and nearby mosques.",
+    "fr": "Localisation précise de la Kaaba et des mosquées aux alentours."
+  },
+  {
+    "key": "testAlignmentBtn",
+    "en": "Test alignment",
+    "fr": "Tester alignement"
+  },
+  {
+    "key": "aligned119SE",
+    "en": "✨ Aligned 119° SE",
+    "fr": "✨ Aligné 119° SE"
+  },
+  {
+    "key": "facingMeccaStatus",
+    "en": "🕋 Facing Mecca",
+    "fr": "🕋 Face à la Mecque"
+  },
+  {
+    "key": "orientPhoneStatus",
+    "en": "Orient your phone",
+    "fr": "Orientez votre téléphone"
+  },
+  {
+    "key": "accurateSignalReady",
+    "en": "Accurate signal • Ready for prayer",
+    "fr": "Signal précis • Prêt pour la prière"
+  },
+  {
+    "key": "turnToMeccaHint",
+    "en": "Turn towards 119° SE to align",
+    "fr": "Tournez vers 119° SE pour aligner"
+  },
+  {
+    "key": "sampleGrandMosque",
+    "en": "Grand Mosque",
+    "fr": "Mosquée Grande-Mosquée"
+  },
+  {
+    "key": "sampleMosqueDistance",
+    "en": "450 m away • Mawaqit synchronization active",
+    "fr": "À 450 m • Synchronisation Mawaqit active"
+  },
+  {
+    "key": "mosqueOpenStatus",
+    "en": "Open",
+    "fr": "Ouverte"
+  },
+  {
+    "key": "onboardingStep6Desc",
+    "en": "Adjust the visual appearance of widgets according to your preferences.",
+    "fr": "Ajustez l'apparence visuelle des widgets selon vos préférences."
+  },
+  {
+    "key": "onboardingWelcomeMsg",
+    "en": "Welcome to Islam-Noor! Your experience is personalized and ready.",
+    "fr": "Bienvenue dans Islam-Noor ! Votre expérience est personnalisée et prête."
+  },
+  {
+    "key": "myBugReportsTitle",
+    "en": "My Bug Reports",
+    "fr": "Mes Signalements"
+  },
+  {
+    "key": "myBugReportsSub",
+    "en": "Live tracking of your reports and developer responses",
+    "fr": "Suivi en direct de vos signalements et des réponses du développeur"
+  },
+  {
+    "key": "localCacheBadge",
+    "en": "Local cache",
+    "fr": "Cache local"
+  },
+  {
+    "key": "statusUnresolved",
+    "en": "Unresolved",
+    "fr": "Non résolu"
+  },
+  {
+    "key": "syncingOnlineReports",
+    "en": "Synchronizing reports online...",
+    "fr": "Synchronisation des signalements en ligne..."
+  },
+  {
+    "key": "noReportsSentYet",
+    "en": "You have not sent any bug reports",
+    "fr": "Vous n'avez envoyé aucun signalement"
+  },
+  {
+    "key": "noReportsInCat",
+    "en": "No reports in this category",
+    "fr": "Aucun signalement dans cette catégorie"
+  },
+  {
+    "key": "noReportsHelp1",
+    "en": "If you encounter any display, audio, or prayer time issue, report it so we can fix it.",
+    "fr": "Si vous rencontrez un problème d'affichage, d'audio ou de prière, signalez-le pour que nous puissions le corriger."
+  },
+  {
+    "key": "noReportsHelp2",
+    "en": "Change your filter to view other reports.",
+    "fr": "Modifiez votre filtre pour afficher les autres signalements."
+  },
+  {
+    "key": "reportBugNowBtn",
+    "en": "Report a bug now",
+    "fr": "Signaler un bug maintenant"
+  },
+  {
+    "key": "sentOnDate",
+    "en": "Sent on",
+    "fr": "Envoyé le"
+  },
+  {
+    "key": "attachedScreenshot",
+    "en": "Attached screenshot:",
+    "fr": "Capture d'écran jointe :"
+  },
+  {
+    "key": "developerResponseTitle",
+    "en": "Developer Response",
+    "fr": "Réponse du développeur"
+  },
+  {
+    "key": "devInProgressMsg",
+    "en": "The developer has received your report and is working on the fix.",
+    "fr": "Le développeur a pris en charge votre signalement et travaille sur le correctif."
+  },
+  {
+    "key": "totalReportsCount",
+    "en": "Total: {count} report(s)",
+    "fr": "Total : {count} signalement(s)"
+  },
+  {
+    "key": "openOnMobileQr",
+    "en": "Open on mobile (QR)",
+    "fr": "Ouvrir sur mobile (QR)"
+  },
+  {
+    "key": "autoTranslatedBadge",
+    "en": "Auto-translated to {lang}",
+    "fr": "Traduit automatiquement en {lang}"
+  },
+  {
+    "key": "viewOriginalMessage",
+    "en": "View original (French)",
+    "fr": "Voir message original (Français)"
+  },
+  {
+    "key": "viewTranslatedMessage",
+    "en": "View translation",
+    "fr": "Voir traduction"
+  },
+  {
+    "key": "translateToFrench",
+    "en": "Translate to French",
+    "fr": "Traduire en français"
+  },
+  {
+    "key": "translating",
+    "en": "Translating...",
+    "fr": "Traduction en cours..."
+  },
+  {
+    "key": "originalFrenchResponse",
+    "en": "Original response (French):",
+    "fr": "Réponse originale (Français) :"
+  },
+  {
+    "key": "timeFormatLabel",
+    "en": "Time format",
+    "fr": "Format de l'heure"
+  },
+  {
+    "key": "timeFormatAuto",
+    "en": "Automatic (based on language)",
+    "fr": "Automatique (selon langue)"
+  },
+  {
+    "key": "timeFormat24h",
+    "en": "24 hours (14:30)",
+    "fr": "24 heures (14:30)"
+  },
+  {
+    "key": "timeFormat12h",
+    "en": "12 hours (02:30 PM)",
+    "fr": "12 heures (02:30 PM)"
+  },
+  {
+    "key": "reminderNotification",
+    "en": "🔔 Notification",
+    "fr": "🔔 Notification"
+  },
+  {
+    "key": "reminderAudio",
+    "en": "🔊 Audio only",
+    "fr": "🔊 Audio seul"
+  },
+  {
+    "key": "reminderBoth",
+    "en": "🔔+🔊 Notif + Audio",
+    "fr": "🔔+🔊 Notif + Audio"
+  },
+  {
+    "key": "customizeNotification",
+    "en": "Customize notification",
+    "fr": "Personnaliser notification"
+  },
+  {
+    "key": "customizeVoice",
+    "en": "Customize audio/voice",
+    "fr": "Personnaliser vocal"
+  },
+  {
+    "key": "openOtherPhone",
+    "en": "Open on another phone (QR Code / Public link)",
+    "fr": "Ouvrir sur un autre téléphone (QR Code / Lien public)"
+  },
+  {
+    "key": "accessDevDashboard",
+    "en": "Access Developer Dashboard (/developer)",
+    "fr": "Accéder au Dashboard Développeur (/developer)"
+  },
+  {
+    "key": "searchMosqueIn",
+    "en": "Search for a mosque in",
+    "fr": "Rechercher une mosquée à"
+  },
+  {
+    "key": "yourCity",
+    "en": "your city",
+    "fr": "votre ville"
+  },
+  {
+    "key": "mosqueCurrentlySynced",
+    "en": "Currently synced mosque",
+    "fr": "Mosquée actuellement synchronisée"
+  },
+  {
+    "key": "officialMawaqitTimes",
+    "en": "Official Mawaqit schedules",
+    "fr": "Horaires officiels Mawaqit"
+  },
+  {
+    "key": "backToCityCalculations",
+    "en": "Reverted to astronomical calculations for the city",
+    "fr": "Retour aux calculs astronomiques de la ville"
+  },
+  {
+    "key": "unsyncMosque",
+    "en": "Unsync",
+    "fr": "Désynchroniser"
+  },
+  {
+    "key": "officialBadge",
+    "en": "Official",
+    "fr": "Officiel"
+  },
+  {
+    "key": "jumuaLabel",
+    "en": "Jumua",
+    "fr": "Jumua"
+  },
+  {
+    "key": "mawaqitIqamaTimes",
+    "en": "Exact Mawaqit & Iqama times",
+    "fr": "Horaires exacts Mawaqit & Iqama"
+  },
+  {
+    "key": "geoCoordinates",
+    "en": "Geographical coordinates",
+    "fr": "Coordonnées géographiques"
+  },
+  {
+    "key": "syncedButton",
+    "en": "Synced",
+    "fr": "Synchronisé"
+  },
+  {
+    "key": "syncButton",
+    "en": "Sync",
+    "fr": "Synchroniser"
+  },
+  {
+    "key": "officialMosque",
+    "en": "Official Mosque",
+    "fr": "Mosquée Officielle"
+  },
+  {
+    "key": "timesSourceColon",
+    "en": "Prayer times source:",
+    "fr": "Source des horaires :"
+  },
+  {
+    "key": "astronomicalCalculation",
+    "en": "Astronomical calculation",
+    "fr": "Calcul astronomique"
+  },
+  {
+    "key": "fridayPrayerLabel",
+    "en": "Friday prayer (Jumua)",
+    "fr": "Prière du vendredi (Jumua)"
+  },
+  {
+    "key": "chooseMosqueBtn",
+    "en": "Choose mosque",
+    "fr": "Choisir mosquée"
+  },
+  {
+    "key": "change",
+    "en": "Change",
+    "fr": "Changer"
+  },
+  {
+    "key": "prayerReminderTitle",
+    "en": "Prayer reminder",
+    "fr": "Rappel de prière"
+  },
+  {
+    "key": "testNotifBtn",
+    "en": "Test notification",
+    "fr": "Tester la notification"
+  },
+  {
+    "key": "testWord",
+    "en": "Test",
+    "fr": "Test"
+  },
+  {
+    "key": "enterCityToSearch",
+    "en": "Enter a city name to search",
+    "fr": "Entrez le nom d'une ville pour rechercher"
+  },
+  {
+    "key": "aboutPresentationTitle",
+    "en": "Overview & Features",
+    "fr": "Présentation & Fonctionnement"
+  },
+  {
+    "key": "about50Languages",
+    "en": "50 Languages",
+    "fr": "50 Langues"
+  },
+  {
+    "key": "aboutOffline",
+    "en": "100% Offline",
+    "fr": "100% Hors-ligne"
+  },
+  {
+    "key": "aboutNoAds",
+    "en": "100% Free",
+    "fr": "100% Gratuit"
+  },
+  {
+    "key": "aboutCoreFeatures",
+    "en": "Core Features & Algorithms",
+    "fr": "Fonctionnalités Principales & Algorithmes"
+  },
+  {
+    "key": "aboutQiblaGreatCircle",
+    "en": "Great-circle navigation",
+    "fr": "Calcul par Grand Cercle"
+  },
+  {
+    "key": "aboutQuranTajweedSubtitle",
+    "en": "Arabic, Transliteration & Audio",
+    "fr": "Arabe, Phonétique & Audio"
+  },
+  {
+    "key": "aboutPrayerTimesTitle",
+    "en": "Prayer Calculations",
+    "fr": "Calculs des Prières"
+  },
+  {
+    "key": "aboutWorldOrgsSubtitle",
+    "en": "World Organizations & Mawaqit",
+    "fr": "Organisations Mondiales & Mawaqit"
+  },
+  {
+    "key": "aboutHalalScannerTitle",
+    "en": "Scanner & Halal Additives",
+    "fr": "Scanner & Additifs Halal"
+  },
+  {
+    "key": "aboutOpenFoodFactsSubtitle",
+    "en": "Open Food Facts Database",
+    "fr": "Base Open Food Facts"
+  },
+  {
+    "key": "aboutHalalDesc",
+    "en": "Real-time barcode scanner analyzing E-number additives (gelatins, emulsifiers, colorants) to determine whether a product is Halal, Doubtful, or Haram.",
+    "fr": "Scanner de code-barres en temps réel analysant les additifs E-numbers (gélatines, émulsifiants, colorants) pour indiquer si le produit est Halal, Douteux ou Haram."
+  },
+  {
+    "key": "aboutDesignedForUmmah",
+    "en": "Crafted for the Ummah with Respect & Precision",
+    "fr": "Conçu pour la Oumma avec Respect & Précision"
+  },
+  {
+    "key": "aboutFreeNoAds",
+    "en": "100% Free",
+    "fr": "100% Gratuit"
+  },
+  {
+    "key": "about100Free",
+    "en": "100% Free",
+    "fr": "100% Gratuit"
+  },
+  {
+    "key": "aboutIntegratedLanguages",
+    "en": "Built-in Languages",
+    "fr": "Langues Intégrées"
+  },
+  {
+    "key": "aboutMajorVersion",
+    "en": "Major Version",
+    "fr": "Version Majeure"
+  },
+  {
+    "key": "multilingualSupportBadge",
+    "en": "MULTILINGUAL SUPPORT • 50+ LANGUAGES",
+    "fr": "SUPPORT MULTILINGUE • 50+ LANGUES"
+  },
+  {
+    "key": "multilingualSupportSub",
+    "en": "50+ available languages",
+    "fr": "50+ langues disponibles"
+  },
+  {
+    "key": "onboardingStep1Badge",
+    "en": "PRAYER TIMES • ASTRONOMICAL PRECISION",
+    "fr": "HORAIRES DE PRIÈRE • PRÉCISION ASTRONOMIQUE"
+  },
+  {
+    "key": "onboardingStep2Badge",
+    "en": "HOLY QURAN • TAJWEED & AUDIO",
+    "fr": "LE SAINT CORAN • TAJWID & AUDIO"
+  },
+  {
+    "key": "onboardingStep3Badge",
+    "en": "HALAL SCANNER • ADDITIVES & E-NUMBERS",
+    "fr": "SCANNER HALAL • ADDITIFS & E-NUMBERS"
+  },
+  {
+    "key": "onboardingStep4Badge",
+    "en": "DHIKR & TASBIH • HAPTIC COUNTER",
+    "fr": "DHIKR & TASBIH • COMPTEUR HAPTIQUE"
+  },
+  {
+    "key": "onboardingStep5Badge",
+    "en": "3D QIBLA COMPASS • SYNCED MOSQUES",
+    "fr": "BOUSSOLE QIBLA 3D • MOSQUÉES SYNCHRONISÉES"
+  },
+  {
+    "key": "onboardingStep6Badge",
+    "en": "CUSTOMIZATION • THEMES & WIDGETS",
+    "fr": "PERSONNALISATION • THÈMES & WIDGETS"
+  },
+  {
+    "key": "ayatKursiTitle",
+    "en": "Ayat Al-Kursi (2:255)",
+    "fr": "Ayat Al-Kursi (2:255)"
+  },
+  {
+    "key": "ayatKursiArabic",
+    "en": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
+    "fr": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ"
+  },
+  {
+    "key": "ayatKursiTranslit",
+    "en": "Allahu la ilaha illa Huwal-Hayyul-Qayyum, la ta'khudhuhu sinatun wa la nawm...",
+    "fr": "Allahu la ilaha illa Huwal-Hayyul-Qayyum, la ta'khudhuhu sinatun wa la nawm..."
+  },
+  {
+    "key": "ayatKursiTranslation",
+    "en": "« Allah! There is no deity except Him, the Ever-Living, the Sustainer of existence. Neither drowsiness overtakes Him nor sleep. »",
+    "fr": "« Allah ! Point de divinité à part Lui, le Vivant, Celui qui subsiste par Lui-même. Ni somnolence ni sommeil ne Le saisissent. »"
+  },
+  {
+    "key": "fullscreenCameraScanner",
+    "en": "FULLSCREEN CAMERA SCANNER",
+    "fr": "SCANNER CAMÉRA PLEIN ÉCRAN"
+  },
+  {
+    "key": "openScanner",
+    "en": "Open Scanner",
+    "fr": "Ouvrir le Scanner"
+  },
+  {
+    "key": "openScannerDesc",
+    "en": "Point the camera at any barcode: ultra-fast 1-second detection.",
+    "fr": "Pointez la caméra vers n'importe quel code-barres : détection ultra-rapide en 1 seconde."
+  },
+  {
+    "key": "autoScanActive",
+    "en": "Auto scan active",
+    "fr": "Scan auto actif"
+  },
+  {
+    "key": "barcodeScannerTitle",
+    "en": "Barcode scanner",
+    "fr": "Scanner code-barres"
+  },
+  {
+    "key": "alignBarcode",
+    "en": "Align the barcode",
+    "fr": "Alignez le code-barres"
+  },
+  {
+    "key": "barcodeReadOk",
+    "en": "Barcode detected",
+    "fr": "Code-barres détecté"
+  },
+  {
+    "key": "ultraFastDetection",
+    "en": "Ultra-fast automatic detection",
+    "fr": "Détection automatique ultra-rapide"
+  },
+  {
+    "key": "enterCodeManually",
+    "en": "Enter code manually",
+    "fr": "Saisir le code manuellement"
+  },
+  {
+    "key": "enableFlashlight",
+    "en": "Enable flashlight",
+    "fr": "Activer la torche"
+  },
+  {
+    "key": "disableFlashlight",
+    "en": "Disable flashlight",
+    "fr": "Désactiver la torche"
+  },
+  {
+    "key": "switchCamera",
+    "en": "Switch camera",
+    "fr": "Changer de caméra"
+  },
+  {
+    "key": "aiAnalysis",
+    "en": "AI Analysis",
+    "fr": "Analyse IA"
+  },
+  {
+    "key": "cameraNotSupported",
+    "en": "Camera is not supported by your browser.",
+    "fr": "La caméra n'est pas supportée par votre navigateur."
+  },
+  {
+    "key": "cameraAccessDenied",
+    "en": "Camera access denied. Please allow camera access in your settings.",
+    "fr": "Accès caméra refusé. Veuillez autoriser l'accès à la caméra dans vos réglages."
+  },
+  {
+    "key": "cannotAccessRearCamera",
+    "en": "Unable to access the rear camera. Please retry.",
+    "fr": "Impossible d'accéder à la caméra arrière. Réessayez."
+  },
+  {
+    "key": "startingHighResCamera",
+    "en": "Starting high-resolution camera...",
+    "fr": "Démarrage de la caméra haute résolution..."
+  },
+  {
+    "key": "cameraAccess",
+    "en": "Camera access",
+    "fr": "Accès caméra"
+  },
+  {
+    "key": "frameIngredientsList",
+    "en": "Frame the ingredients list",
+    "fr": "Cadrez la liste des ingrédients"
+  },
+  {
+    "key": "clearTextInstruction",
+    "en": "Sharp and well-lit text for AI analysis",
+    "fr": "Texte net et bien éclairé pour l'analyse IA"
+  },
+  {
+    "key": "tapToAnalyzeIngredients",
+    "en": "Tap to analyze ingredients",
+    "fr": "Appuyez pour analyser les ingrédients"
+  },
+  {
+    "key": "analyzingIngredientsAi",
+    "en": "AI ingredient analysis in progress...",
+    "fr": "Analyse IA des ingrédients en cours..."
+  },
+  {
+    "key": "analyzingIngredientsDesc",
+    "en": "Detecting derivatives, E-numbers, and Halal / Haram status.",
+    "fr": "Détection des dérivés, E-numbers et statut halal/haram sans rechargement."
+  },
+  {
+    "key": "productNotFound",
+    "en": "PRODUCT NOT FOUND",
+    "fr": "PRODUIT NON TROUVÉ"
+  },
+  {
+    "key": "productNotFoundDesc",
+    "en": "This product was not found in our database. Scroll down to analyze its ingredients.",
+    "fr": "Ce produit n'a pas été trouvé dans notre base de données. Faites défiler vers le bas pour analyser les ingrédients."
+  },
+  {
+    "key": "insufficientInfoOrNotListed",
+    "en": "Insufficient information / Not listed",
+    "fr": "Informations insuffisantes / Non répertorié"
+  },
+  {
+    "key": "tutorialBadge",
+    "en": "Guide & Tutorial",
+    "fr": "Guide & Tutoriel"
+  },
+  {
+    "key": "pageTutorial",
+    "en": "Guide",
+    "fr": "Guide"
+  },
+  {
+    "key": "practicalTip",
+    "en": "Practical tip",
+    "fr": "Astuce pratique"
+  },
+  {
+    "key": "previous",
+    "en": "Previous",
+    "fr": "Précédent"
+  },
+  {
+    "key": "next",
+    "en": "Next",
+    "fr": "Suivant"
+  },
+  {
+    "key": "skip",
+    "en": "Skip",
+    "fr": "Passer"
+  },
+  {
+    "key": "finishTutorial",
+    "en": "Finish",
+    "fr": "Terminer"
+  },
+  {
+    "key": "finish",
+    "en": "Finish",
+    "fr": "Terminer"
+  },
+  {
+    "key": "markTutorialAsSeen",
+    "en": "Do not open automatically on this page again",
+    "fr": "Ne plus ouvrir automatiquement sur cette page"
+  },
+  {
+    "key": "step",
+    "en": "Step",
+    "fr": "Étape"
+  },
+  {
+    "key": "stepOf",
+    "en": "Step {step} of {total}",
+    "fr": "Étape {step} sur {total}"
+  },
+  {
+    "key": "closeCamera",
+    "en": "Close camera",
+    "fr": "Fermer la caméra"
+  },
+  {
+    "key": "flashlight",
+    "en": "Flashlight",
+    "fr": "Torche"
+  },
+  {
+    "key": "takeIngredientsPhoto",
+    "en": "Take a photo",
+    "fr": "Prendre une photo"
+  },
+  {
+    "key": "errorReportingPortal",
+    "en": "Opening bug reporting portal...",
+    "fr": "Ouverture du portail de signalement..."
+  },
+  {
+    "key": "offlineModeBadge",
+    "en": "100% Offline Mode",
+    "fr": "Mode 100% Hors-ligne"
+  },
+  {
+    "key": "verdictHalalLabel",
+    "en": "HALAL PRODUCT (COMPLIANT)",
+    "fr": "PRODUIT HALAL (CONFORME)"
+  },
+  {
+    "key": "verdictHaramLabel",
+    "en": "HARAM PRODUCT (NON-COMPLIANT)",
+    "fr": "PRODUIT HARAM (NON CONFORME)"
+  },
+  {
+    "key": "verdictDoubtfulLabel",
+    "en": "VERIFICATION NEEDED (DOUBTFUL)",
+    "fr": "VÉRIFICATION NÉCESSAIRE (À VÉRIFIER)"
+  },
+  {
+    "key": "halalSafetyAudit",
+    "en": "Halal Safety Audit (5 Tests)",
+    "fr": "Audit de Sécurité Halal (5 Tests)"
+  },
+  {
+    "key": "mandatoryChecks",
+    "en": "5 mandatory ingredient checks",
+    "fr": "5 contrôles d'ingrédients obligatoires"
+  },
+  {
+    "key": "validated",
+    "en": "passed",
+    "fr": "validés"
+  },
+  {
+    "key": "viewFullReport",
+    "en": "View Full Report",
+    "fr": "Consulter le rapport complet"
+  },
+  {
+    "key": "halalCompliant",
+    "en": "HALAL COMPLIANT",
+    "fr": "HALAL CONFORME"
+  },
+  {
+    "key": "haramNonCompliant",
+    "en": "HARAM NON-COMPLIANT",
+    "fr": "HARAM NON CONFORME"
+  },
+  {
+    "key": "unknownBrand",
+    "en": "Unknown brand",
+    "fr": "Marque inconnue"
+  },
+  {
+    "key": "auditHalal",
+    "en": "Halal Audit",
+    "fr": "Audit Halal"
+  },
+  {
+    "key": "ingredientsTab",
+    "en": "Ingredients",
+    "fr": "Ingrédients"
+  },
+  {
+    "key": "nutritionQuality",
+    "en": "Nutrition & Quality",
+    "fr": "Nutrition & Qualité"
+  },
+  {
+    "key": "canonicalControl",
+    "en": "Canonical & Dietary Fiqh Control",
+    "fr": "Contrôle Canonique et Fiqh Alimentaire"
+  },
+  {
+    "key": "islamicComplianceAnalysis",
+    "en": "5-Point Islamic Compliance Analysis",
+    "fr": "Analyse des 5 points de conformité islamique"
+  },
+  {
+    "key": "notableRemarks",
+    "en": "Remarks & Notable Points",
+    "fr": "Remarques et Points Notables"
+  },
+  {
+    "key": "all",
+    "en": "All",
+    "fr": "Tous"
+  },
+  {
+    "key": "prohibited",
+    "en": "Prohibited",
+    "fr": "Prohibés"
+  },
+  {
+    "key": "doubtful",
+    "en": "Doubtful",
+    "fr": "Douteux"
+  },
+  {
+    "key": "safe",
+    "en": "Safe",
+    "fr": "Sûrs"
+  },
+  {
+    "key": "packagingFullText",
+    "en": "Full Packaging Text",
+    "fr": "Texte Intégral du Packaging"
+  },
+  {
+    "key": "declaredAllergens",
+    "en": "Declared Allergens:",
+    "fr": "Allergènes déclarés :"
+  },
+  {
+    "key": "possibleTraces",
+    "en": "Possible traces:",
+    "fr": "Traces éventuelles :"
+  },
+  {
+    "key": "nutriScoreTitle",
+    "en": "Nutri-Score",
+    "fr": "Nutri-Score Français"
+  },
+  {
+    "key": "nutritionalQualityDesc",
+    "en": "Overall nutritional quality",
+    "fr": "Qualité nutritionnelle globale"
+  },
+  {
+    "key": "novaClassification",
+    "en": "NOVA Classification",
+    "fr": "Classification NOVA"
+  },
+  {
+    "key": "novaDesc",
+    "en": "Degree of industrial processing",
+    "fr": "Degré de transformation industrielle"
+  },
+  {
+    "key": "nova1",
+    "en": "1. Unprocessed foods",
+    "fr": "1. Aliments non transformés"
+  },
+  {
+    "key": "nova2",
+    "en": "2. Culinary ingredients",
+    "fr": "2. Ingrédients culinaires"
+  },
+  {
+    "key": "nova3",
+    "en": "3. Processed foods",
+    "fr": "3. Aliments transformés"
+  },
+  {
+    "key": "nova4",
+    "en": "4. Ultra-processed foods",
+    "fr": "4. Aliments ultra-transformés"
+  },
+  {
+    "key": "labelsEnvironment",
+    "en": "Labels & Environment",
+    "fr": "Environnement"
+  },
+  {
+    "key": "halalCertified",
+    "en": "Halal Certified",
+    "fr": "Halal Certifié"
+  },
+  {
+    "key": "ingredientsCompatible",
+    "en": "Compatible Ingredients",
+    "fr": "Ingrédients Compatibles"
+  },
+  {
+    "key": "licitConditional",
+    "en": "Permissible with reservations",
+    "fr": "Licite sous réserve"
+  },
+  {
+    "key": "doubtfulToVerify",
+    "en": "Doubtful / Verification required",
+    "fr": "Douteux / À vérifier"
+  },
+  {
+    "key": "unverifiable",
+    "en": "Unverifiable / Missing data",
+    "fr": "Non vérifiable / Données incomplètes"
+  },
+  {
+    "key": "certaintyHigh",
+    "en": "Documented certification (3rd party)",
+    "fr": "Certification documentée (Organisme tiers)"
+  },
+  {
+    "key": "certaintyModerate",
+    "en": "Complete declarative data",
+    "fr": "Données déclaratives complètes"
+  },
+  {
+    "key": "certaintyLow",
+    "en": "Partial or unverified data",
+    "fr": "Données partielles ou non documentées"
+  },
+  {
+    "key": "certaintyInsufficient",
+    "en": "Insufficient data",
+    "fr": "Données insuffisantes"
+  },
+  {
+    "key": "openFoodFactsDisclaimer",
+    "en": "Open Food Facts is an open collaborative database. It is neither a manufacturer audit nor a religious certification.",
+    "fr": "Open Food Facts est une base ouverte collaborative. Elle ne constitue ni un audit fabricant ni une certification religieuse."
+  },
+  {
+    "key": "identificationDisclaimer",
+    "en": "Commercial identification references the item but does not guarantee ritual halal compliance.",
+    "fr": "L'identification commerciale référence le produit mais ne garantit pas sa conformité rituelle."
+  },
+  {
+    "key": "tabProtocols",
+    "en": "5 Audit Protocols",
+    "fr": "5 Protocoles d'Audit"
+  },
+  {
+    "key": "tabTraceability",
+    "en": "Traceability & Quality",
+    "fr": "Traçabilité & Qualité"
+  },
+  {
+    "key": "fiqhGuideButton",
+    "en": "View Halal Consumer Guide",
+    "fr": "Consulter le guide halal"
+  },
+  {
+    "key": "fiqhGuideTitle",
+    "en": "Muslim Consumer Guide & Dietary Fiqh",
+    "fr": "Guide du Consommateur Musulman"
+  },
+  {
+    "key": "protocol1Title",
+    "en": "Protocol 1: Product Identification",
+    "fr": "Protocole 1 : Identification du produit"
+  },
+  {
+    "key": "protocol2Title",
+    "en": "Protocol 2: Ingredient List Analysis",
+    "fr": "Protocole 2 : Analyse de la liste d'ingrédients"
+  },
+  {
+    "key": "protocol3Title",
+    "en": "Protocol 3: Prohibited & Doubtful Screening",
+    "fr": "Protocole 3 : Contrôle des ingrédients prohibés & suspects"
+  },
+  {
+    "key": "protocol4Title",
+    "en": "Protocol 4: Certification & Traceability",
+    "fr": "Protocole 4 : Certification & Traçabilité des sources"
+  },
+  {
+    "key": "protocol5Title",
+    "en": "Protocol 5: Synthesis & Evidentiary Level",
+    "fr": "Protocole 5 : Synthèse & Niveau de preuve"
+  },
+  {
+    "key": "protocolStatusPassed",
+    "en": "Passed",
+    "fr": "Validé"
+  },
+  {
+    "key": "protocolStatusWarning",
+    "en": "To verify",
+    "fr": "À vérifier"
+  },
+  {
+    "key": "protocolStatusFailed",
+    "en": "Non-compliant",
+    "fr": "Non conforme"
+  },
+  {
+    "key": "protocolStatusInfo",
+    "en": "Information",
+    "fr": "Information"
+  },
+  {
+    "key": "evidenceTitle",
+    "en": "Evidence & Audit Details",
+    "fr": "Éléments de preuve & Détails"
+  },
+  {
+    "key": "methodologyNote",
+    "en": "Methodology note",
+    "fr": "Note méthodologique"
+  },
+  {
+    "key": "closeModal",
+    "en": "Close",
+    "fr": "Fermer"
+  },
+  {
+    "key": "certifiedHalal",
+    "en": "Halal Certified",
+    "fr": "Certifié Halal"
+  },
+  {
+    "key": "certified",
+    "en": "Certified",
+    "fr": "Certifié"
+  },
+  {
+    "key": "appLocalDescription",
+    "en": "100% autonomous, local and account-free application",
+    "fr": "Application 100% autonome, locale et sans compte"
+  },
+  {
+    "key": "moreRemarks",
+    "en": "more remark(s) in full report ➔",
+    "fr": "autre(s) remarque(s) dans le rapport complet ➔"
+  },
+  {
+    "key": "others",
+    "en": "others...",
+    "fr": "autres..."
+  },
+  {
+    "key": "ingredientsListTitle",
+    "en": "Complete Ingredients List",
+    "fr": "Liste Complète des Ingrédients"
+  },
+  {
+    "key": "myBugReports",
+    "en": "My Reports",
+    "fr": "Mes signalements"
+  },
+  {
+    "key": "tourHomeTimelineTitle",
+    "en": "Your prayers",
+    "fr": "Vos prières"
+  },
+  {
+    "key": "tourHomeTimelineDesc",
+    "en": "The widget shows the five prayers and the next one.",
+    "fr": "Le widget montre les cinq prières et la prochaine."
+  },
+  {
+    "key": "tourHomeQuranTitle",
+    "en": "Listen to the Quran",
+    "fr": "Écouter le Coran"
+  },
+  {
+    "key": "tourHomeQuranDesc",
+    "en": "Start a recitation without leaving the home screen.",
+    "fr": "Lancez la récitation d'une sourate sans quitter l'accueil."
+  },
+  {
+    "key": "tourHomeMosqueTitle",
+    "en": "Nearby mosques",
+    "fr": "Les mosquées proches"
+  },
+  {
+    "key": "tourHomeMosqueDesc",
+    "en": "Find the mosques around you on the map.",
+    "fr": "Repérez les mosquées autour de vous sur la carte."
+  },
+  {
+    "key": "tourPrayersQiblaTitle",
+    "en": "The Qibla",
+    "fr": "La Qibla"
+  },
+  {
+    "key": "tourPrayersQiblaDesc",
+    "en": "The arrow shows the direction of the prayer.",
+    "fr": "La flèche indique la direction de la prière."
+  },
+  {
+    "key": "tourPrayersTimesTitle",
+    "en": "The times",
+    "fr": "Les horaires"
+  },
+  {
+    "key": "tourPrayersTimesDesc",
+    "en": "The time of every prayer and the iqama.",
+    "fr": "L'heure de chaque prière et l'iqama."
+  },
+  {
+    "key": "tourPrayersReminderTitle",
+    "en": "The reminders",
+    "fr": "Les rappels"
+  },
+  {
+    "key": "tourPrayersReminderDesc",
+    "en": "Choose when to be notified before the adhan.",
+    "fr": "Choisissez quand être prévenu avant l'adhan."
+  },
+  {
+    "key": "tourQuranReaderTitle",
+    "en": "The reader",
+    "fr": "Le lecteur"
+  },
+  {
+    "key": "tourQuranReaderDesc",
+    "en": "Verses, translation and audio in one place.",
+    "fr": "Versets, traduction et audio au même endroit."
+  },
+  {
+    "key": "tourQuranListTitle",
+    "en": "The surahs",
+    "fr": "Les sourates"
+  },
+  {
+    "key": "tourQuranListDesc",
+    "en": "Browse the list and start a recitation.",
+    "fr": "Parcourez la liste et lancez la récitation."
+  },
+  {
+    "key": "tourHalalScannerTitle",
+    "en": "Scan a product",
+    "fr": "Scanner un produit"
+  },
+  {
+    "key": "tourHalalScannerDesc",
+    "en": "Point the camera at the barcode to get the verdict.",
+    "fr": "Visez le code-barres pour obtenir le verdict."
+  },
+  {
+    "key": "tourHalalSearchTitle",
+    "en": "Search",
+    "fr": "Rechercher"
+  },
+  {
+    "key": "tourHalalSearchDesc",
+    "en": "Find a product by its name.",
+    "fr": "Retrouvez un produit par son nom."
+  },
+  {
+    "key": "tourSettingsCustomTitle",
+    "en": "Customisation",
+    "fr": "Personnalisation"
+  },
+  {
+    "key": "tourSettingsCustomDesc",
+    "en": "Widgets, backgrounds, colours and borders.",
+    "fr": "Widgets, fonds, couleurs et bordures."
+  },
+  {
+    "key": "tourSettingsAppearanceTitle",
+    "en": "Appearance",
+    "fr": "Apparence"
+  },
+  {
+    "key": "tourSettingsAppearanceDesc",
+    "en": "Fonts, text size, animations and dark mode.",
+    "fr": "Polices, taille du texte, animations et mode sombre."
+  },
+  {
+    "key": "tourSettingsNotificationsTitle",
+    "en": "Notifications",
+    "fr": "Notifications"
+  },
+  {
+    "key": "tourSettingsNotificationsDesc",
+    "en": "Reminders, adhan and the app language.",
+    "fr": "Rappels, adhan et langue de l'application."
+  },
+  {
+    "key": "autoGeolocation",
+    "en": "Automatic location",
+    "fr": "Localisation automatique"
+  },
+  {
+    "key": "autoGeolocationHint",
+    "en": "Use my phone position to calculate the prayer times",
+    "fr": "Utiliser la position du telephone pour calculer les horaires"
+  },
+  {
+    "key": "replayWelcomeGuide",
+    "en": "Replay the welcome guide",
+    "fr": "Revoir le guide de bienvenue"
+  },
+  {
+    "key": "clearField",
+    "en": "Clear",
+    "fr": "Effacer"
+  },
+  {
+    "key": "onboardingHeroTagline",
+    "en": "Your spirituality, every day",
+    "fr": "Votre spiritualité, au quotidien"
+  },
+  {
+    "key": "onboardingNameTitle",
+    "en": "What should we call you?",
+    "fr": "Comment devons-nous vous appeler ?"
+  },
+  {
+    "key": "onboardingNameSub",
+    "en": "Enter your first name to personalize your greetings and profile (optional).",
+    "fr": "Entrez votre prénom pour personnaliser votre accueil et vos rappels (facultatif)."
+  },
+  {
+    "key": "onboardingNamePlaceholder",
+    "en": "Enter your first name here...",
+    "fr": "Entrez votre prénom ici..."
+  },
+  {
+    "key": "onboardingNameOptionalHint",
+    "en": "Optional step • You can modify it at any time in Settings.",
+    "fr": "Étape facultative • Vous pourrez le modifier à tout moment dans les Paramètres."
+  },
+  {
+    "key": "subscriptionTitle",
+    "en": "Subscription",
+    "fr": "Abonnement"
+  },
+  {
+    "key": "premiumSubscription",
+    "en": "Premium Subscription",
+    "fr": "Abonnement premium"
+  },
+  {
+    "key": "supportIslamNoor",
+    "en": "Support Islam-Noor",
+    "fr": "Soutenez Islam-Noor"
+  },
+  {
+    "key": "adFree",
+    "en": "Ad-free experience",
+    "fr": "Sans publicité"
+  },
+  {
+    "key": "subscribedThankYou",
+    "en": "You are subscribed. Thank you!",
+    "fr": "Vous êtes abonné. Merci !"
+  },
+  {
+    "key": "choosePlan",
+    "en": "Choose a plan",
+    "fr": "Choisissez une formule"
+  },
+  {
+    "key": "loadingPlans",
+    "en": "Loading plans…",
+    "fr": "Chargement des offres…"
+  },
+  {
+    "key": "noPlansAvailable",
+    "en": "No plans are available at this time.",
+    "fr": "Les offres ne sont pas disponibles pour le moment."
+  },
+  {
+    "key": "restorePurchasesBtn",
+    "en": "Restore my purchases",
+    "fr": "Restaurer mes achats"
+  },
+  {
+    "key": "backToSettings",
+    "en": "Back to settings",
+    "fr": "Retour aux paramètres"
+  },
+  {
+    "key": "purchaseSuccess",
+    "en": "Purchase completed. Thank you for your support!",
+    "fr": "Achat effectué. Merci de votre soutien !"
+  },
+  {
+    "key": "purchaseFailed",
+    "en": "The purchase was not completed.",
+    "fr": "L'achat n'a pas été finalisé."
+  },
+  {
+    "key": "purchasesRestored",
+    "en": "Your purchases have been restored.",
+    "fr": "Vos achats ont été restaurés."
+  },
+  {
+    "key": "noPurchasesToRestore",
+    "en": "No purchases found to restore.",
+    "fr": "Aucun achat à restaurer."
+  },
+  {
+    "key": "selectedAudioReminder",
+    "en": "Selected voice reminder",
+    "fr": "Rappel vocal sélectionné"
+  },
+  {
+    "key": "customVoiceOption",
+    "en": "Custom voice option",
+    "fr": "Option vocale personnalisée"
+  },
+  {
+    "key": "customVoiceMessage",
+    "en": "Custom voice message",
+    "fr": "Message vocal personnalisé"
+  },
+  {
+    "key": "customAudioPlaceholder",
+    "en": "E.g. In ten minutes the adhan will sound. Perform your ablutions.",
+    "fr": "Ex: Dans dix minutes l'adhan retentira. Faites vos ablutions."
+  },
+  {
+    "key": "customAudioVoiceHint",
+    "en": "Will be read with high-fidelity speech synthesis.",
+    "fr": "Sera lu avec une voix de synthèse haute fidélité."
+  },
+  {
+    "key": "defaultPreparationReminder",
+    "en": "It is time to prepare for prayer.",
+    "fr": "Il est temps de se préparer pour la prière."
+  },
+  {
+    "key": "testVoice",
+    "en": "Test voice",
+    "fr": "Tester la voix"
+  },
+  {
+    "key": "presetInvocationsAndReminders",
+    "en": "Predefined invocations & reminders",
+    "fr": "Invocations et rappels prédéfinis"
+  },
+  {
+    "key": "dynamicPreview",
+    "en": "Live preview",
+    "fr": "Aperçu dynamique"
+  },
+  {
+    "key": "testAlert",
+    "en": "Test alert",
+    "fr": "Tester l'alerte"
+  },
+  {
+    "key": "customOption",
+    "en": "Custom option",
+    "fr": "Option personnalisée"
+  },
+  {
+    "key": "writeOwnMessage",
+    "en": "Write your own message",
+    "fr": "Rédiger votre propre message"
+  },
+  {
+    "key": "customNotifPlaceholder",
+    "en": "E.g.: 🕌 It will soon be time to pray ({prayer}). Get ready!",
+    "fr": "Ex: 🕌 C'est bientôt l'heure de prier ({prayer}). Préparez-vous !"
+  },
+  {
+    "key": "insertVariable",
+    "en": "Insert:",
+    "fr": "Insérer :"
+  },
+  {
+    "key": "fullReminderPage",
+    "en": "Full reminder page",
+    "fr": "Page complète du rappel"
+  },
+  {
+    "key": "prayerReminderNotificationTitle",
+    "en": "Prayer reminder",
+    "fr": "Rappel de prière"
+  },
+  {
+    "key": "adhanTitle",
+    "en": "Adhan",
+    "fr": "Adhan"
+  },
+  {
+    "key": "adhanNotificationBody",
+    "en": "It is time for the {prayer} prayer ({imam})",
+    "fr": "Il est l'heure de la prière de {prayer} ({imam})"
+  },
+  {
+    "key": "experienceSetup",
+    "en": "Configuration of your experience",
+    "fr": "Configuration de votre Expérience"
+  },
+  {
+    "key": "continueToApp",
+    "en": "Continue to application",
+    "fr": "Continuer vers l'application"
+  },
+  {
+    "key": "officialMosqueSource",
+    "en": "Official Mosque (Times & Iqama)",
+    "fr": "Mosquée Officielle (Horaires & Iqama)"
+  },
+  {
+    "key": "astronomicalCalculationSource",
+    "en": "Accurate Astronomical Calculation (Adhan)",
+    "fr": "Calcul astronomique précis (Adhan)"
+  },
+  {
+    "key": "currentLocation",
+    "en": "Current location",
+    "fr": "Localisation actuelle"
+  },
+  {
+    "key": "reminderDelayText",
+    "en": "{min} min before the call to prayer",
+    "fr": "{min} min avant l'appel à la prière"
+  },
+  {
+    "key": "preview",
+    "en": "Preview",
+    "fr": "Aperçu"
+  },
+  {
+    "key": "tajwidLegendTitle",
+    "en": "Tajwid Color Code Legend",
+    "fr": "Légende des couleurs Tajwid"
+  },
+  {
+    "key": "tajwidRulesTitle",
+    "en": "Tajwid Rules (Color Code)",
+    "fr": "Règles de Tajwid (Code Couleur)"
+  },
+  {
+    "key": "tajwidMaddTitle",
+    "en": "Madd (Red)",
+    "fr": "Madd (Rouge)"
+  },
+  {
+    "key": "tajwidMaddDesc",
+    "en": "Voice prolongations (2, 4, 5 or 6 counts)",
+    "fr": "Prolongations de la voix (2, 4, 5 ou 6 temps)"
+  },
+  {
+    "key": "tajwidGhunnaTitle",
+    "en": "Ghunna (Green)",
+    "fr": "Ghunna (Vert)"
+  },
+  {
+    "key": "tajwidGhunnaDesc",
+    "en": "Sustained nasalization (Nun & Mim Shaddah)",
+    "fr": "Nasalisation soutenue (Nun & Mim Shaddah)"
+  },
+  {
+    "key": "tajwidQalqalaTitle",
+    "en": "Qalqala (Sky Blue)",
+    "fr": "Qalqala (Bleu ciel)"
+  },
+  {
+    "key": "tajwidQalqalaDesc",
+    "en": "Echoing / bouncing resonance (ق, ط, ب, ج, د)",
+    "fr": "Rebond / résonance (ق, ط, ب, ج, د)"
+  },
+  {
+    "key": "tajwidIkhfaTitle",
+    "en": "Ikhfa (Purple)",
+    "fr": "Ikhfa (Violet)"
+  },
+  {
+    "key": "tajwidIkhfaDesc",
+    "en": "Concealment of the Nun pronunciation",
+    "fr": "Dissimulation de la prononciation du Nun"
+  },
+  {
+    "key": "tajwidIdghamTitle",
+    "en": "Idgham (Orange)",
+    "fr": "Idgham (Orange)"
+  },
+  {
+    "key": "tajwidIdghamDesc",
+    "en": "Merging of two letters (يرملون)",
+    "fr": "Fusion de deux lettres (يرملون)"
+  },
+  {
+    "key": "tajwidIqlabTitle",
+    "en": "Iqlab (Yellow / Amber)",
+    "fr": "Iqlab (Jaune / Ambre)"
+  },
+  {
+    "key": "tajwidIqlabDesc",
+    "en": "Converting Nun Sakinah into Mim before Ba",
+    "fr": "Conversion du Nun Sakinah en Mim avant Ba"
+  },
+  {
+    "key": "tajwidSilentTitle",
+    "en": "Silent letters (Gray)",
+    "fr": "Lettres silencieuses (Gris)"
+  },
+  {
+    "key": "tajwidSilentDesc",
+    "en": "Letters written but not pronounced",
+    "fr": "Lettres écrites mais non prononcées"
+  },
+  {
+    "key": "barcode",
+    "en": "Barcode",
+    "fr": "Code-barres"
+  },
+  {
+    "key": "ingredientsTextOption",
+    "en": "Ingredients (Text)",
+    "fr": "Ingrédients (Texte)"
+  },
+  {
+    "key": "toVerifyCount",
+    "en": "To verify ({count})",
+    "fr": "À vérifier ({count})"
+  },
+  {
+    "key": "searchingVerifiedAndOff",
+    "en": "Searching verified database and Open Food Facts...",
+    "fr": "Recherche dans la base vérifiée et Open Food Facts..."
+  },
+  {
+    "key": "arLaunching",
+    "en": "Launching AR camera...",
+    "fr": "Lancement de la caméra AR..."
+  },
+  {
+    "key": "arCameraUnavailable",
+    "en": "Camera unavailable",
+    "fr": "Caméra non disponible"
+  },
+  {
+    "key": "arCameraPermissionPrompt",
+    "en": "Allow camera access to overlay the direction of Mecca in augmented reality.",
+    "fr": "Autorisez l'accès à la caméra arrière pour superposer la direction de la Mecque en réalité augmentée."
+  },
+  {
+    "key": "allowCamera",
+    "en": "Allow camera",
+    "fr": "Autoriser la caméra"
+  },
+  {
+    "key": "backToCompass",
+    "en": "Back to compass",
+    "fr": "Retour boussole"
+  },
+  {
+    "key": "arCameraNotSupported",
+    "en": "Camera not supported on this browser",
+    "fr": "Caméra non gérée sur ce navigateur"
+  },
+  {
+    "key": "closeArMode",
+    "en": "Close Augmented Reality mode",
+    "fr": "Fermer le mode Réalité Augmentée"
+  },
+  {
+    "key": "shareModalTitle",
+    "en": "Open on Phone & Share",
+    "fr": "Ouvrir sur Téléphone & Partager"
+  },
+  {
+    "key": "shareModalSub",
+    "en": "Public access without account or login required",
+    "fr": "Accès public sans compte ni connexion requise"
+  },
+  {
+    "key": "shareDevNotice",
+    "en": "The development link is reserved for the editor. To open the app on any phone, use the shared public link below.",
+    "fr": "Le lien de développement est réservé à l'éditeur. Pour ouvrir l'application sur n'importe quel téléphone, utilisez le lien public partagé ci-dessous."
+  },
+  {
+    "key": "scanWithPhoneCamera",
+    "en": "Scan with your phone's camera",
+    "fr": "Scannez avec l'appareil photo de votre téléphone"
+  },
+  {
+    "key": "copied",
+    "en": "Copied!",
+    "fr": "Copié !"
+  },
+  {
+    "key": "copy",
+    "en": "Copy",
+    "fr": "Copier"
+  },
+  {
+    "key": "prevSurah",
+    "en": "Previous surah",
+    "fr": "Sourate précédente"
+  },
+  {
+    "key": "nextSurah",
+    "en": "Next surah",
+    "fr": "Sourate suivante"
+  },
+  {
+    "key": "lastListening",
+    "en": "Last listened",
+    "fr": "Dernière écoute"
+  },
+  {
+    "key": "clearHistory",
+    "en": "Clear history",
+    "fr": "Supprimer l'historique"
+  },
+  {
+    "key": "stepNumber",
+    "en": "Step {current}/{total}",
+    "fr": "Étape {current}/{total}"
+  },
+  {
+    "key": "packUnlocked",
+    "en": "unlocked",
+    "fr": "débloqué"
+  },
+  {
+    "key": "packsUnlocked",
+    "en": "unlocked",
+    "fr": "débloqués"
+  },
+  {
+    "key": "bgPack",
+    "en": "Backgrounds Pack",
+    "fr": "Pack Arrière-plans"
+  },
+  {
+    "key": "bgPackSubtitle",
+    "en": "2 geometric backgrounds",
+    "fr": "2 arrière-plans géométriques"
+  },
+  {
+    "key": "bordersPack",
+    "en": "Borders Pack",
+    "fr": "Pack Bordures"
+  },
+  {
+    "key": "bordersPackSubtitle",
+    "en": "2 animated borders",
+    "fr": "2 bordures ciselées / animées"
+  },
+  {
+    "key": "widgetsPack",
+    "en": "Widgets Pack",
+    "fr": "Pack Widgets"
+  },
+  {
+    "key": "widgetsPackSubtitle",
+    "en": "2 premium widgets",
+    "fr": "2 widgets premium"
+  },
+  {
+    "key": "supportDesc",
+    "en": "Enjoying Islam-Noor? Watch an ad voluntarily to support us and unlock premium customization themes.",
+    "fr": "Vous appréciez Islam-Noor ? Regardez volontairement une publicité pour nous soutenir et débloquer des thèmes."
+  },
+  {
+    "key": "rewardVideoAndroidOnly",
+    "en": "Rewarded videos are only available in the Android app. No data was modified.",
+    "fr": "Les vidéos récompensées sont disponibles uniquement dans l'application Android Islam-Noor. Aucune donnée n'a été modifiée."
+  },
+  {
+    "key": "rewardVideoClosedEarly",
+    "en": "The video was closed early: no pack was unlocked and preferences remain intact.",
+    "fr": "La vidéo a été fermée avant la fin : aucun pack n'a été débloqué et vos préférences restent intactes."
+  },
+  {
+    "key": "audioPlayingAdBlocked",
+    "en": "Audio playback or spiritual protection is in progress. You can retry once it finishes.",
+    "fr": "Une lecture audio ou une protection spirituelle est en cours. Vous pourrez réessayer une fois l'écoute terminée."
+  },
+  {
+    "key": "noVideoAvailable",
+    "en": "No video available at this moment. You can try again later.",
+    "fr": "Aucune vidéo n'est disponible pour le moment. Vous pouvez réessayer plus tard."
+  },
+  {
+    "key": "unlockedBordersTitle",
+    "en": "Premium Borders Unlocked",
+    "fr": "Bordures Premium Débloquées"
+  },
+  {
+    "key": "unlockedBgTitle",
+    "en": "Premium Backgrounds Unlocked",
+    "fr": "Arrière-plans Premium Débloqués"
+  },
+  {
+    "key": "unlockedWidgetsTitle",
+    "en": "Premium Widgets Unlocked",
+    "fr": "Widgets Premium Débloqués"
+  }
+]

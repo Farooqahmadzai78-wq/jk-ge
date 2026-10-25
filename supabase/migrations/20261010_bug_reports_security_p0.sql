@@ -1,0 +1,37 @@
+-- ==========================================================
+-- P0 SECURITE — Suppression de la lecture GLOBALE des signalements
+-- Table public.bug_reports
+-- ==========================================================
+--
+-- Objectif : supprimer l'acces en lecture GLOBAL aux signalements
+-- par les roles `anon` / `authenticated`.
+-- La cle publiable Supabase etant publique (embarquee dans le client),
+-- la politique SELECT actuelle exposait TOUS les signalements (PII :
+-- emails, descriptions, technical_info).
+--
+-- Portee : LECTURE uniquement, table bug_reports uniquement.
+--   - Aucune politique d'INSERT n'est supprimee.
+--   - "Anyone can submit bug reports" (INSERT bug_reports) reste active.
+--   - Les politiques admin (UPDATE / DELETE par email) restent actives.
+--
+-- Principe : la cle `service_role` contourne (bypass) toujours RLS.
+-- Le backend externe (islam-noor-bug-tracker.ai.studio) qui utilise
+-- `service_role` conserve donc un acces complet, y compris en lecture.
+--
+-- NOTE : les operations concernant le bucket Storage `bug_attachments`
+-- (passage en prive + suppression de sa lecture publique) ont ete
+-- DIFFEREES. Elles sont documentees dans :
+--   docs/security/bug_attachments_private_deferred.sql
+-- Elles ne doivent etre appliquees qu'apres verification du mode
+-- d'acces du backend externe aux pieces jointes (URL publique vs
+-- signed URL vs service_role).
+
+-- 1) Table : supprime la politique de lecture globale des signalements.
+--    Nom exact verifie dans 20260809_bug_reports.sql.
+DROP POLICY IF EXISTS "Users can view own bug reports" ON public.bug_reports;
+-- Nom historique defensif : jamais cree, present uniquement dans un
+-- DROP IF EXISTS de la migration d'origine. Retire par precaution.
+DROP POLICY IF EXISTS "Users can view own bug reports or admin views all" ON public.bug_reports;
+-- Aucune politique SELECT de remplacement n'est creee : par defaut (deny),
+-- `anon` et `authenticated` ne peuvent plus lire aucune ligne de bug_reports.
+-- `service_role` conserve l'acces total (RLS neutralise pour ce role).

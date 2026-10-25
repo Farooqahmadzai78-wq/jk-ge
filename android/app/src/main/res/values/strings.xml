@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Islam-Noor</string>
+    <string name="title_activity_main">Islam-Noor</string>
+    <string name="package_name">com.islamnoor.app</string>
+    <string name="custom_url_scheme">com.islamnoor.app</string>
+    <!-- AdMob : identifiant d'application de TEST Google (public).
+         À remplacer par l'identifiant réel avant la publication. -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>

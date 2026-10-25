@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_nav_home"
+        android:title="Accueil" />
+
+    <item
+        android:id="@+id/navigation_prayers"
+        android:icon="@drawable/ic_nav_prayers"
+        android:title="Prières" />
+
+    <item
+        android:id="@+id/navigation_quran"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Coran" />
+
+    <item
+        android:id="@+id/navigation_halal"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Halal" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_nav_more"
+        android:title="Paramètres" />
+</menu>
